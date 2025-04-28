@@ -3,4 +3,5 @@ A netflix clone deployed using DevOps Tools, also implemented security and monit
 
 ![Picture](public/assets/Netflix_clone_workflow.jpg)
 ![Pic](public/assets/netflix_clone.png)
+![Pic](public/assets/detail-modal.png) 
 
