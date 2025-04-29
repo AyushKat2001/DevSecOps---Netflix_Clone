@@ -22,7 +22,7 @@ The application is containerized, automatically built and tested via CI/CD, scan
 - Set up system and application monitoring with Prometheus and visualized metrics using Grafana dashboards.
 
 🧩 Project Architecture  
-##### GitHub Repo ➔ Jenkins CI/CD ➔ SonarQube & Trivy Scan ➔ Docker Build ➔ Kubernetes Deployment via ArgoCD ➔ AWS Cloud Infrastructure ➔ Monitoring via Prometheus & Grafana  
+#####   GitHub Repo ➔ Jenkins CI/CD ➔ SonarQube & Trivy Scan ➔ Docker Build ➔ Kubernetes Deployment via ArgoCD ➔ AWS Cloud Infrastructure ➔ Monitoring via Prometheus & Grafana  
 
 
 📸 Screenshots  
