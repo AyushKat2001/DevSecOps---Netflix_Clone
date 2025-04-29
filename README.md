@@ -1,9 +1,9 @@
 # 🎬 Netflix Clone - Full DevOps Deployment Project  
-🚀 Project Overview  
+#### 🚀 Project Overview  
 This project showcases a full DevOps pipeline to develop, secure, monitor, and deploy a Netflix clone web application on a cloud-native infrastructure.  
 The application is containerized, automatically built and tested via CI/CD, scanned for vulnerabilities, monitored for performance, and deployed on a Kubernetes cluster using GitOps principles.  
 
-🛠️ Tech Stack & Tools Used  
+#### 🛠️ Tech Stack & Tools Used  
 - Containerization: Docker
 - CI/CD: Jenkins
 - Security Scanning: SonarQube (Code Quality), Trivy (Image Vulnerability Scanning)
@@ -13,7 +13,7 @@ The application is containerized, automatically built and tested via CI/CD, scan
 - Cloud Provider: AWS
 - Version Control: Git, GitHub
 
-🔥 Project Highlights  
+#### 🔥 Project Highlights  
 - Built and containerized the Netflix clone application using Docker.
 - Configured a complete CI/CD pipeline in Jenkins for automated build, test, and deployment.
 - Integrated SonarQube and Trivy for proactive code quality assurance and security checks.
@@ -21,7 +21,7 @@ The application is containerized, automatically built and tested via CI/CD, scan
 - Implemented GitOps principles using ArgoCD for declarative, automated deployment.
 - Set up system and application monitoring with Prometheus and visualized metrics using Grafana dashboards.
 
-🧩 Project Architecture  
+#### 🧩 Project Architecture  
 #####   GitHub Repo ➔ Jenkins CI/CD ➔ SonarQube & Trivy Scan ➔ Docker Build ➔ Kubernetes Deployment via ArgoCD ➔ AWS Cloud Infrastructure ➔ Monitoring via Prometheus & Grafana  
 
 
