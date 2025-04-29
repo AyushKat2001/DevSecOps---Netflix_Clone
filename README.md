@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone - Full DevOps Deployment Project  
+# 🎬 Netflix Clone - Full DevSecOps Deployment Project  
 #### 🚀 Project Overview  
 This project showcases a full DevOps pipeline to develop, secure, monitor, and deploy a Netflix clone web application on a cloud-native infrastructure.  
 The application is containerized, automatically built and tested via CI/CD, scanned for vulnerabilities, monitored for performance, and deployed on a Kubernetes cluster using GitOps principles.  
